@@ -3,3 +3,9 @@ Starting DSA from Recursion on
 since they are quicker to make and easy to navigate and revise.
 
 I'll do writing as rough work to reinforce my bring but notes from now on here only.
+
+[Python](Python.md)
+[Recurrence](Recurrence.md)
+
+
+

@@ -6,6 +6,7 @@
       {
         "id": "6b8c3d56bbb984d6",
         "type": "tabs",
+        "dimension": 74.19093851132686,
         "children": [
           {
             "id": "3eae405632525392",
@@ -26,6 +27,7 @@
       {
         "id": "cfe3c6781ea67ed1",
         "type": "tabs",
+        "dimension": 25.80906148867314,
         "children": [
           {
             "id": "b430b6141deaa24a",
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a119e0f9386b2f45",
@@ -184,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b430b6141deaa24a",
+  "active": "3eae405632525392",
   "lastOpenFiles": [
     "FastAPI Notes/PostgreSQL.md",
     "FastAPI Notes/Production Database.md",
